@@ -64,7 +64,7 @@ gem 'kaminari'
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
   gem 'awesome_print'
-  gem 'vcr', '~> 2.9'
+  gem 'vcr', '~> 4.0'
 
   gem 'letter_opener'
 
