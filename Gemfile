@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.8.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'typhoeus', '~> 0.7' # HTTP request client
+gem 'typhoeus', '~> 1.3' # HTTP request client
 
 gem 'devise', '~> 4.6.2' # Authentication
 
