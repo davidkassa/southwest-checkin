@@ -107,9 +107,8 @@ GEM
     hashdiff (0.3.9)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
-    jbuilder (2.8.0)
+    jbuilder (2.9.1)
       activesupport (>= 4.2.0)
-      multi_json (>= 1.2)
     jquery-rails (4.3.3)
       rails-dom-testing (>= 1, < 3)
       railties (>= 4.2.0)
@@ -165,7 +164,6 @@ GEM
     mini_mime (1.0.1)
     mini_portile2 (2.4.0)
     minitest (5.11.3)
-    multi_json (1.13.1)
     mustermann (1.0.3)
     nenv (0.3.0)
     newrelic_rpm (6.3.0.355)
@@ -353,7 +351,7 @@ DEPENDENCIES
   dotenv-rails
   guard
   guard-rspec
-  jbuilder (~> 2.8.0)
+  jbuilder (~> 2.9.1)
   jquery-rails
   json-schema-rspec
   kaminari
